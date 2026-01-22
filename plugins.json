@@ -1,0 +1,12 @@
+{
+    "name": "Main Plugind",
+    "manifetstVersion": 1,
+    "plugins": [
+        {
+            "name": "Akira Playlist",
+            "version": 1,
+            "url": "https://raw.githubusercontent.com/kakikakiseribu/cloudstream-repo/main/providers/AkiraPlaylist.cs3",
+            "requirementsResources": false
+        }
+    ]
+}
