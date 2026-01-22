@@ -1,0 +1,11 @@
+{
+    "name": "Repo Akira",
+    "description": "Kumpulan paltform unttuk nonton Anime",
+    "maniferstVersion": 1,
+    "pluginLists": [
+        {
+            "name": "Main Providers",
+            "url": "https://raw.githubusercontent.com/kakikakiseribu/cloudstream-repo/main/plugins.json"
+        }
+    ]
+}
